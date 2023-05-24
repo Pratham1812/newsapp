@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550372052500",
+    "project_id": "fir-auth-flutterfire-ui",
+    "storage_bucket": "fir-auth-flutterfire-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550372052500:android:870e8df12bb1c33e3ce101",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550372052500-ahgk5iaa07urfl4uip9hlab978mui4hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-iZXZ4OGqx8zj3_ChxGqLSW4ZH4r6Pkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550372052500-0po7rolsq4elc8g6vqres8o3ljokrvpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
