@@ -3,7 +3,7 @@
 # NewsApp
 A simple newsapp with a functionality to save a news which you liked. It uses NEWSAPI to fetch latest news and hive to store news locally.
 
-#Setup
+# Setup
 Create a .env file with your "NEWSAPI.ORG" api key and also "FIREBASE" api key.
 
 run
